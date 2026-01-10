@@ -12,3 +12,9 @@
 然后通过访问 [Arbitrum 官方跨链桥测试网页面](https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia&sourceChain=sepolia) 成功把 ETH 跨链到 Arbitrum Sepolia 测试链。
 
 ![text](images/task1-3.png)
+
+## Task2
+运行结果如下：
+
+![text](images/task2-1.png)
+
