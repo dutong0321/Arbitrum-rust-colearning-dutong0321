@@ -14,11 +14,14 @@
 ![text](images/task1-3.png)
 
 ## Task2
+代码路径： [main.rs](level2-balance-query/src/main.rs)
+
 运行结果如下：
 
 ![text](images/task2-1.png)
 
 ## Task3
+代码路径： [main.rs](level3/src/main.rs)
 运行结果如下：
 
 ![text](images/task3-1.png)
