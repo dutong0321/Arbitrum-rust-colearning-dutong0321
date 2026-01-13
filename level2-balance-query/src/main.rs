@@ -5,7 +5,6 @@ use std::error::Error;
 /// 查询Arbitrum测试网地址的ETH余额，并转换为可读格式
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    // 私钥打码
     let address_str = "0xA2ABFAae943CC34817A19b5bDaF71B6784f2B688";
     let balance = get_eth_balance(address_str).await?;
     println!("地址 {} 的ETH余额: {}", address_str, balance);
