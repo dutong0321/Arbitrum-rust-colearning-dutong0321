@@ -39,3 +39,12 @@
 转账成功交易哈希的浏览器截图如下：
 
 ![text](images/task4-2.png)
+
+## Task5
+代码路径： [main.rs](level5/src/main.rs)
+
+运行结果如下：
+
+![text](images/task5-1.png)
+
+切换了三个简单合约进行测试
